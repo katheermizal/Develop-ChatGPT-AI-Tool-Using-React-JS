@@ -11,7 +11,8 @@ Develop ChatGPT AI Tool using React JS, and Tailwind CSS.
 - Rename the `env.example` file in to `.env`
 - Upadate your `OpenAI API key` in to the `.env` file.
 - How to create `OpenAI API Key`? you can able to refer from the following link https://www.youtube.com/watch?v=swcXTgvjHSA
-- Run `npm run dev` will run the server and app in the development mode.
+- Run `npm run start` will run the  app in the development mode.
+- Run `npm run server` will run the  dev server.
 
 ## Available Scripts
 
@@ -24,7 +25,4 @@ Runs the app in the development mode.\
 Builds the app for production to the `build` folder.\
 
 ### `npm run server`
-Runs the node server. default port is 5555.\ 
-
-### `npm run dev`
-Runs the node server, and Runs the app in the development mode via one code.\ 
+Runs the node server. default port is 9008.\ 
